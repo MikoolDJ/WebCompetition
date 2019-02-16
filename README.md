@@ -1,2 +1,2 @@
 # Web Competition
-Format: ![Screenshot 1](https://imgur.com/9s4sjFI)
+![Home page screenshot](https://i.imgur.com/9s4sjFI.png)
