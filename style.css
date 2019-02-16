@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+}
+
+.login-form {
+  max-width: 500px;
+  margin: 10% auto;
+  padding: 30px;
+  box-shadow: 0 3.5px 13px 0px #a9a9a9a6;
+  border-radius: 7px;
+}
+
+.no-margin {
+  margin : 0 auto;
+}
+
+.login-form-lg {
+  max-width: 800px;
+}
+
+.align-right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+.alphabet-link-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.upper-margin {
+	margin-top: 6%;
+}
+
+.alphabet-link {
+  text-decoration: none;
+  margin: 6px;
+}
+
+.jumbotron {
+  background: #222930;
+  color: #E9E9E9;
+}
+
+.dark-background {
+  background: #222930;
+  color: #E9E9E9
+}
+
+.jumbotron span {
+  color: #4EB1BA;
+}
+
+.add-padding {
+  padding: 0 5% 5% 5%;
+}
+
+.blockquote {
+  padding: 3%;
+}
+
+.navbar {
+  padding: 0;
+  background: #222930;
+}
+
+.format-text
+{
+  color: #4EB1BA;
+}
+
+.top-news {
+  margin-top: 50px;
+}
+
+.card-mauritius-background {
+  background-image: url('images/mauritius.jpg');
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.quotes {
+    box-shadow: 0px 0px 9px 0px rgba(214, 206, 206, 0.8);
+    background-color: rgb(241, 239, 239);
+    padding: 15px 0 0 0;
+}
